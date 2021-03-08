@@ -1,0 +1,30 @@
+[
+   {
+      "naziv":"SALA100",
+      "kapacitet":100,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"SALA70",
+      "kapacitet":70,
+      "racunari":0,
+      "dezurni":2,
+      "etf":1
+   },
+   {
+      "naziv":"SALA50PRVA",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"SALA50DRUGA",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":2,
+      "etf":1
+   }
+]

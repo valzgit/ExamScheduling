@@ -1,0 +1,37 @@
+[
+   {
+      "naziv":"VMA",
+      "kapacitet":70,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"56",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":2,
+      "etf":1
+   },
+   {
+      "naziv":"M212",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"M216",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"65",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":2,
+      "etf":1
+   }
+]
